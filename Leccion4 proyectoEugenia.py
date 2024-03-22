@@ -1,7 +1,6 @@
 #
-#        David Reyes Rodríguez - Entregable-01
+#        Eugenia Esquivel Sanchez - Entregable - 04
 #
-#               PROYECTO ENTREGABLE 01
 #             SISTEMA DE PAGO DE LA POPS®
 #                ---------------------
 
